@@ -8,7 +8,7 @@
     "url": "git+https://github.com/TensaZangetsu/H3r0.git"
   },
   "scripts": {
-    "test": "test",
+    "test": "testhero",
     "start": "node index.js"
   },
   "author": "Radoman Milos",
@@ -17,7 +17,7 @@
     "url": "https://github.com/TensaZangetsu/H3r0/issues"
   },
   "homepage": "https://github.com/TensaZangetsu/H3r0#readme",
-  "devDependencies": {
+  "dependencies": {
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
     "morgan": "^1.8.1"
