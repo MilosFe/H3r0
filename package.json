@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
-  "scripts": {
-    "test": "test",
-    "start": "node index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TensaZangetsu/H3r0.git"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "Radoman Milos",
   "license": "ISC",
